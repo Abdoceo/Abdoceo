@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdoceo
+- 👋 Hi, I’m Abdulrahman aka Abdo
 - 👀 I’m interested in Machine learning 
 - 🌱 I’m currently learning data science 
 - 💞️ I’m looking to collaborate on ...
