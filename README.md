@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdulrahman aka Abdo
 - 👀 I’m interested in Machine learning 
 - 🌱 I’m currently learning data science 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on NLP,CV projects
 - 📫 How to reach me aasm9493@gmail.com 
 
 <!---
